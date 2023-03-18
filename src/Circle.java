@@ -1,4 +1,4 @@
-package src.main.java.com.epam.rd.autotasks.figures;
+package src;
 
 class Circle extends Figure {
     private final Point a;
